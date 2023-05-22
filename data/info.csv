@@ -1,0 +1,2 @@
+symbol,bid_price,ask_price,last_price,last_tick_direction,prev_price_24h,price_24h_pcnt,high_price_24h,low_price_24h,prev_price_1h,mark_price,index_price,open_interest,countdown_hour,turnover_24h,volume_24h,funding_rate,predicted_funding_rate,next_funding_time,predicted_delivery_price,total_turnover,total_volume,delivery_fee_rate,delivery_time,price_1h_pcnt,open_value
+BTCUSD,26842.50,26843.00,26843.00,ZeroMinusTick,26907.50,-0.002397,27100.00,26537.00,26861.00,26843.00,26849.69,460595374.0,0,13551.0683,363310146.0,0.000023,,2023-05-23T00:00:00Z,,,0,,,,
